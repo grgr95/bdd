@@ -2,10 +2,8 @@ package ru.netology.web.data;
 
 import com.github.javafaker.Faker;
 import lombok.Value;
-import ru.netology.web.page.DashboardPage;
 
 import java.util.Locale;
-import java.util.NoSuchElementException;
 import java.util.Random;
 
 
