@@ -8,7 +8,7 @@ import java.util.Locale;
 import java.util.NoSuchElementException;
 import java.util.Random;
 
-@Value
+
 public class DataHelper {
 
     private static Faker fake = new Faker(new Locale("ru"));
